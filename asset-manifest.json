@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gift/static/css/main.f85aa97f.css",
+    "main.js": "/gift/static/js/main.029e88f6.js",
+    "static/media/fonnts.com-Rigid_Square_Regular.otf": "/gift/static/media/fonnts.com-Rigid_Square_Regular.00192de173346398eb1d.otf",
+    "static/media/theqr.png": "/gift/static/media/theqr.39fea484db2c599a5e37.png",
+    "static/media/Ship.svg": "/gift/static/media/Ship.8f53c3f39c601fd2c2615174ad375364.svg",
+    "index.html": "/gift/index.html",
+    "main.f85aa97f.css.map": "/gift/static/css/main.f85aa97f.css.map",
+    "main.029e88f6.js.map": "/gift/static/js/main.029e88f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f85aa97f.css",
+    "static/js/main.029e88f6.js"
+  ]
+}
